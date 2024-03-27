@@ -1,16 +1,14 @@
-### Hi there 👋
+### 🤗 About me
+- d
+- d
+- d
+- d
 
-<!--
-**JB0129/JB0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 My Stack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 Contact
+이메일 : rltkqja@naver.com
+
+### ✏️ Blog
+블로그 : [velog](https://velog.io/@rltkqja/posts)
